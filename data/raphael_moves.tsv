@@ -1,5 +1,5 @@
-				
-				
-				
-				
-				
+character	version	move_id	input	startup	on_block	on_hit	on_counter	total_frames	damage	notes
+Raphael	Ver.D	A6	A6	?,?,?,?,?,?,?,Prep B						
+Raphael	Ver.D	236B	236B	?,?,?,?,?,?,Thrust						
+Raphael	Ver.D	AE中B	AE中B	?,?,?,?,?,?,Prep C						
+Raphael	Ver.D	AE中A	AE中A	?,?,?,?,?,?,2G only						

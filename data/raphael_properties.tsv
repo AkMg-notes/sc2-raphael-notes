@@ -1,0 +1,5 @@
+character	version	move_id	property_type	property_value	start_frame	end_frame	notes
+Raphael	Ver.D	236B	TC	あり	7	13	7Fから13FまでTC
+Raphael	Ver.D	236B	TJ	あり	3	5	3Fから5FまでTJ
+Raphael	Ver.D	Prep.B中B	AutoGI	横上中段のみ	10	15	10Fから15FまでAutoGI
+							

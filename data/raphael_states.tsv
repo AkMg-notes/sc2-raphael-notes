@@ -1,0 +1,5 @@
+character	version	move_id	state_type	state_value	notes
+Raphael	Ver.D	A6	ガード後の状態	しゃがみ	相手をしゃがませる
+Raphael	Ver.D	A6	ヒット後の状態	足払い	RO効果あり
+Raphael	Ver.D	236B	技後の状態	FC	自分がFCになる
+					

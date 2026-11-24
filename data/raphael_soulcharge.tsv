@@ -1,0 +1,5 @@
+character	version	move_id	sc_level	effect_type	effect_value	notes	notes
+Raphael	Ver.D	236B	2	GB	あり	レベル2以上でGB	7Fから13FまでTC
+Raphael	Ver.D	236B	3	GB	あり	レベル3でもGB	3Fから5FまでTJ
+Raphael	Ver.D	Prep.C中B	3	アンブロッカブル	あり	レベル3でアンブロッカブル	10Fから15FまでAutoGI
+							

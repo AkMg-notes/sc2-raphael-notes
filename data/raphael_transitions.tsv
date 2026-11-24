@@ -1,0 +1,5 @@
+character	version	move_id	from_stance	to_stance	transition_type	notes
+Raphael	Ver.D	A6	normal	Prep B	transition	Prep B
+Raphael	Ver.D	AE中B	AE	Prep C	transition	Prep C
+Raphael	Ver.D	Prep.A中6A	Prep A	normal	transition	6A
+						
